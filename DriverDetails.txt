@@ -1,0 +1,11 @@
+Ferrari,John,London,89
+Toyota,Dav,Japan,120
+Tesla,Max,Korea,99
+Honda,Frank,India,88
+Jaguar,William,Us,60
+Suzuki,Peter,India,60
+KoreanFire,David,Korea,62
+Sam10,John,Jerusalem,30
+HonkoSuper,Tara,Honkon,37
+Dukin,Sam Kmi,Sri Lanka,54
+Qqq,Aruna Gamage,Nigeria,8
