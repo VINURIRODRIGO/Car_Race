@@ -54,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Contact
 
-For questions, suggestions, or support, please contact [your email or username].
+For questions, suggestions, or support, please contact vinuri.rodrigo@gmail.com.
